@@ -6,7 +6,7 @@ Tutorial:
 1. Install OpenRGB
 Download it here: https://openrgb.org/#downloads
 
-2. Enable SDK Server
+2. Enable SDK Server:
   a. Launch **OpenRGB**
   b. Go to **SDK Server**
   c. Hit **Start Server**

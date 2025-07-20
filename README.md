@@ -1,6 +1,6 @@
 # OpenRGB-Dynamic-Lighting
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/python-3.11.9%2B-blue)
 ![GitHub repo size](https://img.shields.io/github/repo-size/centillagon/OpenRGB-Dynamic-Lighting)
 ![GitHub last commit](https://img.shields.io/github/last-commit/centillagon/OpenRGB-Dynamic-Lighting)
 ![GitHub issues](https://img.shields.io/github/issues/centillagon/OpenRGB-Dynamic-Lighting)

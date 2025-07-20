@@ -25,7 +25,6 @@ try:
     while True:
         color = get_average_screen_color()
         for device in devices:
-            print(device.name)
             device.set_color(color)
         time.sleep(0.1)
 except KeyboardInterrupt:

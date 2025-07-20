@@ -4,6 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/centillagon/OpenRGB-Dynamic-Lighting)
 ![GitHub last commit](https://img.shields.io/github/last-commit/centillagon/OpenRGB-Dynamic-Lighting)
 ![GitHub issues](https://img.shields.io/github/issues/centillagon/OpenRGB-Dynamic-Lighting)
+![Windows 7+](https://img.shields.io/badge/Windows-7%2B-blue)
 
 
 Using Python and OpenRGB, there is a simpler way to match your devices colors to your screen. Likely works on Windows 7 and above. (Native support for Windows 11)
